@@ -26,7 +26,7 @@ function isJavaScriptFile(String){
         return false;
     }
 }
-console.log(isJavaScriptFile('image.js.png'));
+console.log(isJavaScriptFile('image.js'));
 
 
 // Problem 3: oilPrice
@@ -87,3 +87,5 @@ function isBestFriend(toCheck,toCheck1){
     }
 }
 console.log(isBestFriend(toCheck,toCheck1));
+
+
